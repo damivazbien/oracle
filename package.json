@@ -1,0 +1,29 @@
+{
+  "name": "oracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damivazbien/oracle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damivazbien/oracle/issues"
+  },
+  "homepage": "https://github.com/damivazbien/oracle#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.1.1",
+    "bip39": "^2.5.0",
+    "ethereumjs-wallet": "^0.6.3",
+    "web3": "^1.3.0"
+  }
+}
